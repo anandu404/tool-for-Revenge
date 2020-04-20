@@ -1,9 +1,9 @@
 #
 #!/bin/bash
 clear
-echo -e "\e[4;31m 404cyber_hoster Productions !!! \e[0m"
+echo -e "\e[4;31m മലയാളി Productions !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m the Revenge of mallus✓ \e[0m"
+echo -e "\e[1;32m വിലയോ തുച്ചം ഗുണമോ മെച്ചം✓ \e[0m"
 echo "Press Enter To Continue"
 read a1
 if [[ -s update.Cybermallu ]];then
